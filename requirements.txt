@@ -1,7 +1,5 @@
-uvicorn
-opencv-python
-fastapi
-python-multipart
-Pillow
-numpy
-matplotlib
+fastapi==0.95.1
+uvicorn==0.22.0
+opencv-python==4.8.0.74
+numpy==1.24.1
+pillow==9.5.0
