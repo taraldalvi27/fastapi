@@ -2,3 +2,6 @@ uvicorn
 opencv-python
 fastapi
 python-multipart
+Pillow
+numpy
+matplotlib
